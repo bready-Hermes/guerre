@@ -25,3 +25,8 @@ Site statique documenté sur le thème : **« Poutine et Trump, vont-ils faire s
 ## Règle éditoriale
 
 Le site doit rester pédagogique, sourcé, et éviter l’alarmisme gratuit : il traite du risque nucléaire et politique comme un risque réel mais non inévitable.
+
+## Déploiement initial
+
+- Déploiement initial vérifié le 2026-06-24 sur dev et prod.
+- Les deux domaines utilisent Plesk Git avec webhooks GitHub.
