@@ -1,0 +1,19 @@
+project:
+  slug: guerre
+  title: "Poutine et Trump : vont-ils faire sauter la planète ?"
+  type: static-html
+hosting:
+  provider: plesk
+  server: hermes01.notreserveur.net
+  production:
+    domain: guerre.notreserveur.net
+    branch: main
+  development:
+    domain: guerre-dev.notreserveur.net
+    branch: hermes
+repository:
+  owner: bready-Hermes
+  name: guerre
+content:
+  language: fr
+  stance: "Analyse documentée et pédagogique, non sensationnaliste"
